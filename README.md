@@ -1,6 +1,6 @@
 ## Mailtrain v2 beta is available. Check it out here https://github.com/Mailtrain-org/mailtrain/tree/development
 
-# Mailtrain
+# Mailtrain new line
 
 [Mailtrain](http://mailtrain.org) is a self hosted newsletter application built on Node.js (v7+) and MySQL (v5.5+ or MariaDB).
 
